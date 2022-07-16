@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\bin\Debug\net6.0\q6.exe
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\bin\Debug\net6.0\q6.deps.json
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\bin\Debug\net6.0\q6.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\bin\Debug\net6.0\q6.dll
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\bin\Debug\net6.0\q6.pdb
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.dll
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\refint\q6.dll
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.pdb
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\q6.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\lista01\q6\q6\obj\Debug\net6.0\ref\q6.dll

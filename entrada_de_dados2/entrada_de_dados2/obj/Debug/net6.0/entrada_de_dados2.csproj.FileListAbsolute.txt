@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\bin\Debug\net6.0\entrada_de_dados2.exe
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\bin\Debug\net6.0\entrada_de_dados2.deps.json
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\bin\Debug\net6.0\entrada_de_dados2.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\bin\Debug\net6.0\entrada_de_dados2.dll
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\bin\Debug\net6.0\entrada_de_dados2.pdb
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.dll
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\refint\entrada_de_dados2.dll
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.pdb
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\entrada_de_dados2.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\entrada_de_dados2\entrada_de_dados2\obj\Debug\net6.0\ref\entrada_de_dados2.dll

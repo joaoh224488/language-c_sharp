@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\bin\Debug\net6.0\tipos_primitivos.exe
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\bin\Debug\net6.0\tipos_primitivos.deps.json
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\bin\Debug\net6.0\tipos_primitivos.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\bin\Debug\net6.0\tipos_primitivos.dll
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\bin\Debug\net6.0\tipos_primitivos.pdb
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.dll
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\refint\tipos_primitivos.dll
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.pdb
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\tipos_primitivos.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\tipos_primitivos\tipos_primitivos\obj\Debug\net6.0\ref\tipos_primitivos.dll

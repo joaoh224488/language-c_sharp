@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\saida\saida\bin\Debug\net6.0\saida.exe
+C:\Users\joaoh\Documents\c# projects\saida\saida\bin\Debug\net6.0\saida.deps.json
+C:\Users\joaoh\Documents\c# projects\saida\saida\bin\Debug\net6.0\saida.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\saida\saida\bin\Debug\net6.0\saida.dll
+C:\Users\joaoh\Documents\c# projects\saida\saida\bin\Debug\net6.0\saida.pdb
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.dll
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\refint\saida.dll
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.pdb
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\saida.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\saida\saida\obj\Debug\net6.0\ref\saida.dll
