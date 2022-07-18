@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\bin\Debug\net6.0\q6_l4.exe
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\bin\Debug\net6.0\q6_l4.deps.json
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\bin\Debug\net6.0\q6_l4.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\bin\Debug\net6.0\q6_l4.dll
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\bin\Debug\net6.0\q6_l4.pdb
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.dll
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\refint\q6_l4.dll
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.pdb
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\q6_l4.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\lista04\q6_l4\q6_l4\obj\Debug\net6.0\ref\q6_l4.dll

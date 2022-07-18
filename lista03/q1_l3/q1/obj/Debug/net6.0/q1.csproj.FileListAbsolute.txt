@@ -1,0 +1,15 @@
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\bin\Debug\net6.0\q1.exe
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\bin\Debug\net6.0\q1.deps.json
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\bin\Debug\net6.0\q1.runtimeconfig.json
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\bin\Debug\net6.0\q1.dll
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\bin\Debug\net6.0\q1.pdb
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.csproj.AssemblyReference.cache
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.AssemblyInfoInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.AssemblyInfo.cs
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.dll
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\refint\q1.dll
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.pdb
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\q1.genruntimeconfig.cache
+C:\Users\joaoh\Documents\c# projects\lista03\q1\q1\obj\Debug\net6.0\ref\q1.dll
